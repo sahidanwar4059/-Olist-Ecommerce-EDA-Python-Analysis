@@ -1,0 +1,32 @@
+# Olist E-Commerce – Power BI Dashboard Insights
+
+## 📌 Dashboard Goals
+Create interactive and visual dashboards showing:
+- Revenue Trends
+- Customer Segmentation
+- Delivery Performance
+- Seller KPIs
+
+## 🔍 Key Insights from Dashboard
+
+### Page 1: 📊 Sales & Revenue Overview
+- Monthly revenue trend shows strong Q4 growth
+- Total Sales: ₹11.2M, Avg monthly revenue: ₹465K
+- High freight costs reduce margin on bulky goods
+
+### Page 2: 👥 Customer & Review Analysis
+- 65% reviews are 4 or 5 stars
+- Negative feedback (≤3 stars) often linked to late deliveries
+- Most orders are from a few major metro areas
+
+### Page 3: 🛍️ Seller & Product Performance
+- Top 5 sellers outperform the rest significantly
+- Some sellers handle 500+ orders alone
+- Highest-selling products belong to **bed/bath/table** & electronics categories
+
+## 🖼️ Visuals Used
+- Line charts, stacked bar, heatmaps, card KPIs
+- Filters for year, category, city, payment type
+
+## 📁 Data Linked From
+- orders.csv, payments.csv, sellers.csv, products.csv, reviews.csv
